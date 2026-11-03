@@ -1,4 +1,4 @@
-package org.example.bankManagementSystem.Model;
+package org.example.springsystem.springbank.Model;
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
