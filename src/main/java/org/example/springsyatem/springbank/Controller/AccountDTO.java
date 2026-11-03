@@ -1,7 +1,7 @@
 package org.example.springsyatem.springbank.Controller;
 
 public class AccountDTO {
-
+ 
     private long accountNumber;
     private String name;
     private double amount;
