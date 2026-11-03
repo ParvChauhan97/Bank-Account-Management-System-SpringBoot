@@ -1,4 +1,4 @@
-package org.example.springsyatem.springbank.Model;
+package org.example.springsystem.springbank.Model;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
