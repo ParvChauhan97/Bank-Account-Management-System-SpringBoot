@@ -1,4 +1,4 @@
-package org.example.springsyatem.springbank; 
+package org.example.springsystem.springbank; 
 
 import org.example.springsyatem.springbank.Model.BankAccount;
 import org.springframework.data.jpa.repository.JpaRepository;
