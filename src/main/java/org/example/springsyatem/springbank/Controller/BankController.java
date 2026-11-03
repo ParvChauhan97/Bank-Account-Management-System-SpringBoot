@@ -1,4 +1,4 @@
-package org.example.springsyatem.springbank.Controller;
+package org.example.springsystem.springbank.Controller;
 import org.example.springsyatem.springbank.Service.BankService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
