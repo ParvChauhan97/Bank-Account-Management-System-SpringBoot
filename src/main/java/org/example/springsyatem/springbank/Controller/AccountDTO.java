@@ -1,4 +1,4 @@
-package org.example.springsyatem.springbank.Controller;
+package org.example.springsystem.springbank.Controller;
 
 public class AccountDTO {
  
