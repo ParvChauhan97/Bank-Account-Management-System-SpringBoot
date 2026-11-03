@@ -1,4 +1,4 @@
-package org.example.springsyatem.springbank.Service;
+package org.example.springsystem.springbank.Service;
 import org.example.springsyatem.springbank.Model.BankAccount;
 import org.example.springsyatem.springbank.UserRepo;
 import org.springframework.stereotype.Service;
